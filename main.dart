@@ -27,4 +27,11 @@ void main() {
         break;
     }
   } while (opcao != 0);
+
+  // OPERADOR CASCADE
+  //cliente
+  // ..nome = "Joao"
+  // ..idade
+  // ..email
+  // ..sexo;
 }
